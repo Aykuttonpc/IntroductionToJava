@@ -1,5 +1,5 @@
-📚 Daniel Liang - Java Programming Notes
-Java Logo
+📚 Daniel Liang - Java Programming 
+
 
 This repository contains my personal notes and code examples from Y. Daniel Liang's "Introduction to Java Programming" book.
 
